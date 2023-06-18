@@ -1,0 +1,12 @@
+GET http://localhost:9002/param/hello
+
+<> 2023-06-18T195749.200.txt
+
+###
+
+GET http://localhost:9002/param/hello
+
+<> 2023-06-18T195705.404.json
+
+###
+

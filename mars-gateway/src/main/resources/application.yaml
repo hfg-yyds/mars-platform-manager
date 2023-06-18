@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: mars-gateway
+  profiles:
+    active: dev

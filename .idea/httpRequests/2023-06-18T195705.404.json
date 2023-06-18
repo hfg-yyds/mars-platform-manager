@@ -1,0 +1,8 @@
+{
+  "timestamp": "2023-06-18T11:57:05.292+00:00",
+  "path": "/param/hello",
+  "status": 404,
+  "error": "Not Found",
+  "message": null,
+  "requestId": "505a7f4d-4"
+}

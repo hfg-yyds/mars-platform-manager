@@ -1,0 +1,74 @@
+server:
+  port: 8888
+
+spring:
+  cloud:
+    # Spring Cloud Gateway 配置项，对应 GatewayProperties 类
+    gateway:
+      routes:
+#        # 路由配置项，对应 RouteDefinition 数组
+#        - id: admin # 路由的编号
+#          uri: http://www.baidu.com # 路由到的目标地址
+#          predicates: # 断言，作为路由的匹配条件，对应 RouteDefinition 数组
+#            - Url=/github,/github2
+#          filters:
+#            - StripPrefix=1
+        #与Spring Cloud注册中心的集成,对应 DiscoveryLocatorProperties 类
+        - id: mars-admin
+          uri: http://localhost:9001
+          predicates:
+            - Path=/dev-api/*
+          filters:
+            - StripPrefix=1
+      discovery:
+        locator:
+          enabled: true  # 是否开启，默认为 false 关闭
+          url-expression: "'lb://' + serviceId" # 路由的目标地址的表达式，默认为 "'lb://' + serviceId"
+      default-filters:
+        - name: Global
+
+
+
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+eureka:
+  client:
+    register-with-eureka: true # 不注册到 Eureka-Server，默认为 true
+    fetch-registry: true # 不从 Eureka-Server 获取注册表，默认为 true
+    service-url:
+      defaultZone: http://localhost:8080/eureka # Eureka-Server 地址
+
+app:
+  id: gateway-application # 使用的 Apollo 的项目（应用）编号
+apollo:
+  meta: http://127.0.0.1:8080 # Apollo Meta Server 地址
+  bootstrap:
+    eagerLoad:
+      enabled: true # 是否开启 Apollo 支持日志级别的加载时机。默认为 false。
+    namespaces: application # 使用的 Apollo 的命名空间，默认为 application。
+    enabled: true # 是否开启 Apollo 配置预加载功能。默认为 false。
+  property:
+    names:
+      cache:
+        enable: true
+logging:
+  level:
+    root: debug
+
+#火星网关路径映射配置
+mars:
+  gateway:
+    urls:
+      ac:
+        - /github1
+        - /github2
+      clc:
+        - /github3
+        - /github4
+

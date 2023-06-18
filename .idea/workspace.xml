@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd562b29-faf7-40ec-a975-8cf0ce509c6e" name="Default Changelist" comment="[230507] Apollo配置中心接入" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://D:/Program Files (x86)/apache-maven-3.6.3/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.2.1.RELEASE/spring-cloud-openfeign-core-2.2.1.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClient.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://D:/Program Files (x86)/apache-maven-3.6.3/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.2.1.RELEASE/spring-cloud-openfeign-core-2.2.1.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientsRegistrar.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://D:/Program Files (x86)/apache-maven-3.6.3/repository/org/mybatis/mybatis/3.5.9/mybatis-3.5.9-sources.jar!/org/apache/ibatis/reflection/factory/DefaultObjectFactory.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files (x86)/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files (x86)\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ONM8YXufam8UvZ3Zi9AkOMeQye" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mars-admin/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.19590956" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="ts.external.directory.path" value="D:\Program Files\IntelliJ IDEA 2021.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\mars\mars-platform-manager\mars-admin\src" />
+      <recent name="E:\mars\mars-platform-manager\mars-admin\src\main\java\com\hacker\mars\admin\common\metadata" />
+      <recent name="E:\github\Mars\Lottery\src\main\java\com\hacker\mars\lottery\domain\extend\kafka" />
+      <recent name="E:\github\Mars\Lottery\src\main\java\com\hacker\mars\lottery\application\service\mq" />
+      <recent name="E:\github\Mars\Lottery\src\main\java\com\hacker\mars\lottery\domain\extend\rocketmq" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hacker.mars.param" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hacker.mars.admin.common.config" />
+      <recent name="com.hacker.mars.admin.common.util" />
+      <recent name="com.hacker.mars.admin.domain.extension.cache" />
+      <recent name="com.hacker.mars.admin.domain.user.service" />
+      <recent name="com.hacker.mars.admin.common.web" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package -Dmaven.test.skip=true" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MarsApplication">
+    <configuration default="true" type="lua.app" factoryName="Lua Application">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="" />
+      <option name="workingDir" value="$PROJECT_DIR$/Lottery/src/main/java" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generated-requests#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="TestReactor.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mars-param" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hacker.mars.param.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hacker.mars.param" />
+      <option name="MAIN_CLASS_NAME" value="com.hacker.mars.param.TestReactor" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarsAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mars-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hacker.mars.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hacker.mars.admin.MarsAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mars-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hacker.mars.MarsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParamApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mars-param" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hacker.mars.param.ParamApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudGateWay" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mars-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hacker.mars.gateway.SpringCloudGateWay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestReactor.test1" />
+        <item itemvalue="HTTP Request.generated-requests#2" />
+        <item itemvalue="Spring Boot.MarsAdminApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd562b29-faf7-40ec-a975-8cf0ce509c6e" name="Default Changelist" comment="" />
+      <created>1681396428089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681396428089</updated>
+      <workItem from="1681396429682" duration="1418000" />
+      <workItem from="1681398157571" duration="11364000" />
+      <workItem from="1681569767391" duration="1409000" />
+      <workItem from="1681572870116" duration="1016000" />
+      <workItem from="1681622397899" duration="4781000" />
+      <workItem from="1681655818206" duration="4000" />
+      <workItem from="1681655832349" duration="4594000" />
+      <workItem from="1681660793955" duration="823000" />
+      <workItem from="1681822214425" duration="2951000" />
+      <workItem from="1681827793216" duration="376000" />
+      <workItem from="1681828338640" duration="133000" />
+      <workItem from="1681828483038" duration="950000" />
+      <workItem from="1681907646661" duration="1081000" />
+      <workItem from="1681909163776" duration="984000" />
+      <workItem from="1681910729578" duration="22000" />
+      <workItem from="1681912238186" duration="684000" />
+      <workItem from="1681914402980" duration="1784000" />
+      <workItem from="1681998895918" duration="300000" />
+      <workItem from="1681999436197" duration="16787000" />
+      <workItem from="1682132561551" duration="7434000" />
+      <workItem from="1682156977937" duration="1024000" />
+      <workItem from="1682158026441" duration="5023000" />
+      <workItem from="1682335381460" duration="2043000" />
+      <workItem from="1682340858882" duration="706000" />
+      <workItem from="1682341713950" duration="306000" />
+      <workItem from="1682342550156" duration="5215000" />
+      <workItem from="1682672676959" duration="2246000" />
+      <workItem from="1682724384125" duration="1467000" />
+      <workItem from="1682735816391" duration="3892000" />
+      <workItem from="1682749165046" duration="2554000" />
+      <workItem from="1682756572621" duration="2523000" />
+      <workItem from="1682868230818" duration="1110000" />
+      <workItem from="1682907967237" duration="463000" />
+      <workItem from="1682911044529" duration="1250000" />
+      <workItem from="1682959941321" duration="3000" />
+      <workItem from="1683103921784" duration="3137000" />
+      <workItem from="1683196749258" duration="4304000" />
+      <workItem from="1683292564972" duration="391000" />
+      <workItem from="1683296826926" duration="7417000" />
+      <workItem from="1683380231783" duration="5154000" />
+      <workItem from="1683420901174" duration="623000" />
+      <workItem from="1683421539706" duration="684000" />
+      <workItem from="1683422279351" duration="17000" />
+      <workItem from="1683422798622" duration="34000" />
+      <workItem from="1683423110777" duration="38000" />
+      <workItem from="1683423157048" duration="366000" />
+      <workItem from="1683425056102" duration="15814000" />
+      <workItem from="1683538027675" duration="9000" />
+      <workItem from="1683626689789" duration="13000" />
+      <workItem from="1683626766682" duration="79000" />
+      <workItem from="1683627008448" duration="152000" />
+      <workItem from="1683641130616" duration="1181000" />
+      <workItem from="1683728474078" duration="52000" />
+      <workItem from="1683865274021" duration="28687000" />
+      <workItem from="1684026191025" duration="5000" />
+      <workItem from="1684026856868" duration="5937000" />
+      <workItem from="1684033326917" duration="728000" />
+      <workItem from="1684034068760" duration="50000" />
+      <workItem from="1684034192903" duration="1923000" />
+      <workItem from="1684040140097" duration="65000" />
+      <workItem from="1684040207556" duration="3464000" />
+      <workItem from="1684063217407" duration="5432000" />
+      <workItem from="1684245780119" duration="1397000" />
+      <workItem from="1684247183990" duration="234000" />
+      <workItem from="1684249075048" duration="5950000" />
+      <workItem from="1684330184370" duration="196000" />
+      <workItem from="1684330397047" duration="6593000" />
+      <workItem from="1684488077707" duration="31000" />
+      <workItem from="1684489350040" duration="3072000" />
+      <workItem from="1684501233355" duration="345000" />
+      <workItem from="1684501599328" duration="2357000" />
+      <workItem from="1684512639093" duration="3499000" />
+      <workItem from="1684542695841" duration="913000" />
+      <workItem from="1684543629478" duration="3033000" />
+      <workItem from="1684548361003" duration="14469000" />
+      <workItem from="1684576912362" duration="633000" />
+      <workItem from="1684595084913" duration="2721000" />
+      <workItem from="1684630743232" duration="2232000" />
+      <workItem from="1684762396091" duration="1000" />
+      <workItem from="1686384838307" duration="11249000" />
+      <workItem from="1686406787171" duration="3499000" />
+      <workItem from="1686444512236" duration="6034000" />
+      <workItem from="1686659311585" duration="2000" />
+      <workItem from="1686921124605" duration="1213000" />
+      <workItem from="1686924607998" duration="2143000" />
+      <workItem from="1686962223087" duration="5252000" />
+      <workItem from="1687010365837" duration="3746000" />
+      <workItem from="1687071285723" duration="11506000" />
+      <workItem from="1687102125539" duration="720000" />
+      <workItem from="1687102882311" duration="319000" />
+      <workItem from="1687103235385" duration="432000" />
+      <workItem from="1687103784969" duration="161000" />
+    </task>
+    <task id="LOCAL-00001" summary="[230413] 删除">
+      <created>1681396695115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681396695115</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[230414] Po、Mapper重新生成">
+      <created>1681481696740</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681481696740</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[230416] 跑通注册中心Dubbo服务">
+      <created>1681656292728</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681656292728</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[230416] 抽奖活动策略库表设计">
+      <created>1681658686915</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681658686915</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[230419] 代码调整">
+      <created>1681914488005</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681914488005</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[230421] 验证码获取">
+      <created>1682089617768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682089617768</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[230506] 工程整合">
+      <created>1683377341643</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683377341643</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[230507] Apollo配置中心接入">
+      <created>1683423243186</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683423243186</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[230413] 删除" />
+    <MESSAGE value="[230414] Po、Mapper重新生成" />
+    <MESSAGE value="[230416] 跑通Dubbo" />
+    <MESSAGE value="[230416] 跑通注册中心Dubbo服务" />
+    <MESSAGE value="[230416] 抽奖活动策略库表设计" />
+    <MESSAGE value="[230419] 代码调整" />
+    <MESSAGE value="[230421] 验证码获取" />
+    <MESSAGE value="[230506] 工程整合" />
+    <MESSAGE value="[230507] Apollo配置中心接入" />
+    <option name="LAST_COMMIT_MESSAGE" value="[230507] Apollo配置中心接入" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mars-admin/src/main/java/com/hacker/mars/admin/application/service/user/CaptchaAppService.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((HeartbeatEvent)event).timestamp" custom="org.springframework.cloud.client.discovery.event.HeartbeatEvent" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mars_platform_manager$SpringCloudGateWay.ic" NAME="SpringCloudGateWay Coverage Results" MODIFIED="1682343069599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

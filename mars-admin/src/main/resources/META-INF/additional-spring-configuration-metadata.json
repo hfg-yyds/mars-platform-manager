@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "ruoyi.name",
+      "type": "java.lang.String",
+      "description": "Description for ruoyi.name."
+    }
+  ]
+}
